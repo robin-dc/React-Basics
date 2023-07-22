@@ -27,13 +27,17 @@ npm test
 
 ## 📝 Other noteworthy projects
 
-<strong>Github User Searcher</strong><br>
-🔗 https://github-usearch.vercel.app/ <br>
-🐱 https://github.com/robin-dc/Github-User-Searcher.git<br><br>
-
 <strong>Facebook UI Clone</strong><br>
 🔗 https://facebook-darkmode-clone.netlify.app/<br>
 🐱 https://github.com/robin-dc/Facebook-UI-Clone.git<br><br>
+
+<strong>Tenzies Game</strong><br>
+🔗 https://tenzies-robin-dc.vercel.app/ <br>
+🐱 https://github.com/robin-dc/Tenzies.git<br><br>
+
+<strong>Github User Searcher</strong><br>
+🔗 https://github-usearch.vercel.app/ <br>
+🐱 https://github.com/robin-dc/Github-User-Searcher.git<br><br>
 
 <strong>RECIPE.app</strong><br>
 🔗 https://favoriterecipes.vercel.app/ <br>
